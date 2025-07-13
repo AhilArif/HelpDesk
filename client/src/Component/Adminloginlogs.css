@@ -1,0 +1,61 @@
+.logs-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .back-button {
+    padding: 10px 15px;
+    background: #1f184c;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  .search-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .search-box {
+    padding: 8px;
+    width: 250px;
+    border: 1px solid #ccc;
+  }
+  
+  .search-button {
+    padding: 8px 12px;
+    background: #1f184c;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .logs-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .logs-table th,
+  .logs-table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .logs-table th {
+    background: #1f184c;
+    color: white;
+  }
+  
+  .pagination {
+    margin-top: 10px;
+  }
+  
+  .pagination button {
+    margin: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
